@@ -12,8 +12,8 @@ type>>> php artisan serve<br/><br/>
 
 go to:<br/>
 127.0.0.1:8000/login/management or *anyhost*/login/management<br/>
-email: <u>management@gmail.com</u><br/>
-password: <u>password</u><br/><br/>
+email: management@gmail.com<br/>
+password: password<br/><br/>
 
 all logins:<br/>
 127.0.0.1:8000/login/management<br/>
