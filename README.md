@@ -3,7 +3,9 @@
 create database<br/>
 name: hospitaldb<br/><br/>
 
+copy .env.exampl file and name it .env<br/>
 open terminal of the project_files_laravel directory<br/>
+type>>> php artisan key:generate<br/>
 type>>> php artisan migrate<br/>
 type>>> php artisan db:seed<br/>
 type>>> php artisan serve<br/><br/>
